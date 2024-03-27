@@ -3885,7 +3885,7 @@ button,
 
 .main-nav__phone {
   color: rgb(210, 0, 0);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 100%;
   font-family: Inter, sans-serif;
@@ -3901,7 +3901,7 @@ button,
 .main-nav__email {
   color: rgb(210, 0, 0);
   font-family: Inter;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 100%;
   -webkit-transition: 0.3s;
@@ -11686,6 +11686,7 @@ button,
 
   .main-nav__email {
     margin: 0 0 20px;
+    font-size: 18px;
   }
 }
 
@@ -11977,7 +11978,12 @@ button,
     padding: 20px 35px 40px;
   }
 
+  .main-nav__phone {
+    font-size: 18px;
+  }
+
   .main-nav__email {
+    font-size: 18px;
     margin: 0 0 20px;
   }
 
